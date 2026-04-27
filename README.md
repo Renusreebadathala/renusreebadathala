@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**Renusreebadathala/renusreebadathala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About Me<br>💼 I’m currently working on<br>Transforming complex datasets into structured, insight-driven analytics solutions<br><br>🤝 I’m looking to collaborate on<br>Data-driven projects that translate insights into real-world decisions<br><br>📈 I’m looking for help with<br>Scalable data systems and applied analytics<br><br>📚 I’m currently learning<br>Designing end-to-end data workflows and advanced analytical techniques<br><br>💡 Ask me about<br>Simplifying complex data and building intuitive, story-driven dashboards<br><br>✨ Fun fact<br>I don’t just clean data — I refine it into meaningful, decision-ready insights<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/renusree-b-7485292a4/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@renusreeb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:renusreebadathala@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Renusreebadathala&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Renusreebadathala&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Renusreebadathala&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Renusreebadathala&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
